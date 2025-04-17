@@ -1,0 +1,16 @@
+[
+  {
+    "id": "carabelli",
+    "name": "Il dio del tuono",
+    "img": "/cards/Carabelli/CartaIlDioDeiFulmini.png",
+    "photo": "/cards/Carabelli/Carabelli_retro.jpg",
+    "meaning": " A differenza della sua controparte marmorea, esistono momenti in cui la divinità abbandona la sua quiete apparente e si manifesta nella sua vera essenza: il Dio dei Fulmini. La pietra si frantuma in mille schegge, e dalle sue rovine emerge una figura colma d’ira, con lo sguardo acceso da una furia divina. In questa forma, non esita a scatenare fulmini contro i suoi sudditi infedeli e contro ogni forma d’eresia!! "
+  },
+  {
+    "id": "carabelli2",
+    "name": "La statua",
+    "img": "/cards/Carabelli/CartaIlDioDelTuono.png",
+    "photo": "/cards/carabelli/photo.jpg",
+    "meaning": "L'esploratore curioso dello sconosciuto..."
+  }
+]
